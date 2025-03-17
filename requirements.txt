@@ -1,5 +1,5 @@
 streamlit
-pymysql
+PyMySql
 sqlalchemy
 faker
 pandas
