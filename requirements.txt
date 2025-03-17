@@ -4,4 +4,3 @@ sqlalchemy
 faker
 pandas
 python-dotenv
-random  
