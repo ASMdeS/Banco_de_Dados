@@ -1,0 +1,7 @@
+streamlit
+pymysql
+sqlalchemy
+faker
+pandas
+python-dotenv
+random  
