@@ -3,6 +3,7 @@ import pandas as pd
 import pymysql
 import os
 import CreatingDatabase
+import PopulatingDatabase
 from dotenv import load_dotenv
 
 # Carregar variáveis do .env
