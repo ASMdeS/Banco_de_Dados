@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import pymysql
 import os
+import CreatingDatabase
 from dotenv import load_dotenv
 
 # Carregar variáveis do .env
